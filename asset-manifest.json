@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/NataBelyaeva/admin_shelter/static/js/main.19cd990c.js",
-    "index.html": "/NataBelyaeva/admin_shelter/index.html",
-    "main.19cd990c.js.map": "/NataBelyaeva/admin_shelter/static/js/main.19cd990c.js.map"
+    "main.js": "/admin_shelter/static/js/main.19cd990c.js",
+    "index.html": "/admin_shelter/index.html",
+    "main.19cd990c.js.map": "/admin_shelter/static/js/main.19cd990c.js.map"
   },
   "entrypoints": [
     "static/js/main.19cd990c.js"
